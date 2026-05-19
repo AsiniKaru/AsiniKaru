@@ -14,5 +14,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=AsiniKaru&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="https://raw.githubusercontent.com/AsiniKaru/AsiniKaru/snake-output/snake.svg" alt="Snake animation" />
-##
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
