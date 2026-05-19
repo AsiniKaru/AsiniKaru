@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+I'm Asini Karunanayaka and I'm First-year Computer Science student at IJSE. Passionate about coding and learning new technologies. Always eager to grow and contribute to open-source projects.
+
 🔭 I’m currently working on  - Full-stack web development projects  <br>👯 I’m looking to collaborate on  - Creative web applications  <br>🤝 I’m looking for help with  - Backend development  <br>🌱 I’m currently learning  - Java  <br>💬 Ask me about  - Web design  <br>⚡ Fun fact  - anime Lover
 
 
